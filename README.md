@@ -254,6 +254,65 @@ Em Function - Selecionar Date
 
 <br>
 
+### ➕ Adicionando Date
+currentDate
+![Fluxo](imagens/Screenshot_29.png)
+
+<br>
+
+### ➕ Conectar currentDate em processedTimestamp
+currentDate
+![Fluxo](imagens/Screenshot_30.png)
+
+<br>
+
+<br>
+
+### ➕ Conectar birthDate em age
+![Fluxo](imagens/Screenshot_31.png)
+
+<br>
+
+<br>
+
+### ➕ Conectar Groovy Script
+![Fluxo](imagens/Screenshot_32.png)
+
+<br>
+
+### ➕ Selecionar o calculateAge
+![Fluxo](imagens/Screenshot_33.png)
+
+<br>
+
+<br>
+
+### ➕ Conectado o processo
+Mapeamento nos iremos conectar
+```` birthDate -> calculateAge -> Age ````
+![Fluxo](imagens/Screenshot_34.png)
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
