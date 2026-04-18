@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><CustomerOutput><clientId>id_sample</clientId><fullName>name_sample</fullName><contactEmail>email_sample</contactEmail><age>40</age><location><city>city_sample</city><state>state_sample</state><fullAddress>street_sample</fullAddress></location><processedTimestamp>2026/04/16</processedTimestamp></CustomerOutput>

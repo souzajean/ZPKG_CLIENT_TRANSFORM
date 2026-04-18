@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="CustomerOutput">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="clientId" type="xs:string"/>
+                <xs:element name="fullName" type="xs:string"/>
+                <xs:element name="contactEmail" type="xs:string"/>
+                <xs:element name="age" type="xs:int"/>
+                
+                <xs:element name="location">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="city" type="xs:string"/>
+                            <xs:element name="state" type="xs:string"/>
+                            <xs:element name="fullAddress" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="processedTimestamp" type="xs:dateTime"/>
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
