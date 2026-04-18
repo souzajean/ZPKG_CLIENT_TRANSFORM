@@ -82,9 +82,9 @@ Nome: CM_PayloadOriginal
 ### ⚙️ Configuração do Content Modifier
 Message Header
 ```
-|  Action  |  Name  |  Source Type  |  Source Value  |  Data Type  |
+|  Action  |  Name    |  Source Type  |  Source Value  |  Data Type  |
 | ------- | --------------- | ----------- | --------------- | --------- |
-| Create  |  Content-Type  |  Constant  |  application/xml  |       |
+|  Create  |  Content-Type  |  Constant  |  application/xml  |       |
 ```
 ![Fluxo](imagens/Screenshot_9.png)
 
@@ -95,7 +95,7 @@ Exchange Property
 ```
 | Action  | Name            | Source Type | Source Value    |     Data Type    |
 | --------| --------------- | ----------- | --------------- | ---------------- |
-|  Create |   _original	  |	Expression	|	    ${body}	  	| java.lang.String | 
+|  Create |   _original	    |	Expression	|	    ${body}	  	| java.lang.String | 
 ```
 ![Fluxo](imagens/Screenshot_10.png)
 
