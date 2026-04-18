@@ -1,17 +1,27 @@
-# 🚀 ZPKG_CLIENT_TRANSFORM
-## SAP BTP CPI - TRANSFORM_DATE_MESSAGE_MAPPING
+# 🚀 ZPKG_CLIENT_TRANSFORM  
+### SAP BTP CPI | Transformação de Payload com Message Mapping + Groovy
 
-<br> 
+Este projeto demonstra a construção de um iFlow no SAP BTP CPI baseado em um cenário real de integração, envolvendo transformação de dados, cálculo dinâmico de idade e enriquecimento de payload.
+
+A solução integra componentes como HTTPS Sender, Content Modifier, JSON to XML Converter, Groovy Script e Message Mapping para processar e estruturar dados de forma eficiente.
+
+---
 
 ## 🎯 Objetivo
 
+Neste artigo, demonstro a construção de um iFlow no SAP BTP CPI baseado em um cenário real de integração, envolvendo cálculo de idade, transformação de payload e geração de timestamp.
 
+A solução apresenta um fluxo completo de transformação de dados, integrando componentes como HTTPS Sender, Content Modifier, JSON to XML Converter, Groovy Script e Message Mapping.
+
+O cenário contempla:
+- Cálculo dinâmico de idade utilizando Groovy  
+- Enriquecimento da mensagem por meio de Exchange Properties  
+- Geração de timestamp em tempo de execução  
+- Estruturação de saída em XML padronizado para consumo downstream  
+
+Tudo isso simulando um fluxo real de integração, com aplicação de boas práticas de desenvolvimento no SAP BTP CPI.
 
 <br>
-
-## 🧩 Visão Geral da Solução
-
-
 
 ![Fluxo](imagens/capa-linkedin.png)
 
