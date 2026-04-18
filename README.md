@@ -199,6 +199,64 @@ def String calculateAge(String birthDate) {
 
 <br>
 
+# 🔹 5. Message Mapping
+
+### ➕ Adicionando Groovy Script
+![Fluxo](imagens/Screenshot_20.png)
+
+<br>
+
+### 🏷️ Renomeando o Message Mapping
+![Fluxo](imagens/Screenshot_21.png)
+```
+MM_TransformPayload
+```
+<br>
+
+### ➕ Adicionando Groovy Script
+![Fluxo](imagens/Screenshot_22.png)
+
+<br>
+
+### ➕ Criar Message Mapping
+![Fluxo](imagens/Screenshot_23.png)
+```
+mm_req
+```
+
+<br>
+
+### ➕ Adicionando Source.xsd
+![Fluxo](imagens/Screenshot_24.png)
+
+<br>
+
+### ➕ Adicionando Target.xsd
+![Fluxo](imagens/Screenshot_25.png)
+
+<br>
+
+### 📂 Mapeando o Source.xsd no Target.xsd
+![Fluxo](imagens/Screenshot_26.png)
+
+<br>
+
+<br>
+
+### 📂 Configuração do mapeanto entre Source.xsd e Target.xsd
+![Fluxo](imagens/Screenshot_27.png)
+
+<br>
+
+### 📂 Configuração do processedTimestamp
+Em Function - Selecionar Date
+![Fluxo](imagens/Screenshot_28.png)
+
+<br>
+
+
+
+
 
 
 
