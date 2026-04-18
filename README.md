@@ -82,8 +82,8 @@ Nome: CM_PayloadOriginal
 ### ⚙️ Configuração do Content Modifier
 Message Header
 ```
-|  Action  |  Name    |  Source Type  |  Source Value  |  Data Type  |
-| ------- | --------------- | ----------- | --------------- | --------- |
+|  Action  |      Name      |  Source Type  |  Source Value  |  Data Type  |
+| -------- | --------------- | ----------- | --------------- | --------- |
 |  Create  |  Content-Type  |  Constant  |  application/xml  |       |
 ```
 ![Fluxo](imagens/Screenshot_9.png)
