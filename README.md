@@ -199,7 +199,7 @@ def String calculateAge(String birthDate) {
 
 <br>
 
-# 🔹 5. Message Mapping
+# 🔹 6. Message Mapping
 
 ### ➕ Adicionando Groovy Script
 ![Fluxo](imagens/Screenshot_20.png)
@@ -294,10 +294,23 @@ Mapeamento nos iremos conectar
 
 <br>
 
+# 🔹 7. Postman
+### ⚙️ Configuração do Postman
+![Fluxo](imagens/Screenshot_35.png)
 
+<br>
 
+### ⚙️ Reusltado no Postman
+![Fluxo](imagens/Screenshot_36.png)
 
+<br>
+<br>
 
+---
+
+## 📦 Exemplo prático – iFlow para baixar
+
+📦 [Download do iFlow – CPI_ZPKG_CLIENT_TRANSFORM](https://github.com/souzajean/ZPKG_CLIENT_TRANSFORM/raw/main/Package/IFL_CLIENT_TRANSFORM.zip)
 
 
 
