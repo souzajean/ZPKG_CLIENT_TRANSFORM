@@ -84,7 +84,7 @@ Message Header
 ```
 |  Action  |  Name  |  Source Type  |  Source Value  |  Data Type  |
 | --------| --------------- | ----------- | --------------- | --------- |
-| Create  |  Content-Type  |  Constant  |  application/xml  |   |
+| Create  |  Content-Type  |  Constant  |  application/xml  |     |
 ```
 ![Fluxo](imagens/Screenshot_9.png)
 
