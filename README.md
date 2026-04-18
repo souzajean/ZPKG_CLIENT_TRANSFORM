@@ -300,7 +300,7 @@ Mapeamento nos iremos conectar
 
 <br>
 
-### ⚙️ Reusltado no Postman
+### ⚙️ Resultado no Postman
 ![Fluxo](imagens/Screenshot_36.png)
 
 <br>
