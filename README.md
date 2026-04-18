@@ -95,7 +95,7 @@ Exchange Property
 ```
 | Action  | Name            | Source Type | Source Value    |     Data Type    |
 | --------| --------------- | ----------- | --------------- | ---------------- |
-|  Create |   _original	    |  Expression	|    ${body}      | java.lang.String | 
+|  Create |   _original	    | Expression  |    ${body}      | java.lang.String | 
 ```
 ![Fluxo](imagens/Screenshot_10.png)
 
