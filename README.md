@@ -110,5 +110,40 @@ Body: ${body}
 ```
 ![Fluxo](imagens/Screenshot_11.png)
 
+<br>
 
 # 🔹 4. JSON to XML Converter
+
+➕ Adicionando JSON to XML Converter
+![Fluxo](imagens/Screenshot_12.png)
+
+<br>
+
+### 🏷️ Renomeando o JSON to XML Converter
+```
+Nome: JSON to XML
+```
+![Fluxo](imagens/Screenshot_13.png)
+
+<br>
+
+### ⚙️ Configuração JSON to XML Converter
+Processing
+```
+Use Namespace Mapping: Desmarcar
+Add XML Root Element: Desmarcar
+```
+![Fluxo](imagens/Screenshot_14.png)
+
+<br>
+
+
+<br>
+
+
+
+
+
+
+
+
